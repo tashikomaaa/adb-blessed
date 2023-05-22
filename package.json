@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "child_process": "^1.0.2"
+  },
+  "name": "mts-run",
+  "version": "1.0.0",
+  "main": "mts-run.js",
+  "scripts": {
+    "start": "node mts-run",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
